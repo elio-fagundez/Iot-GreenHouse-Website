@@ -1,4 +1,4 @@
-# Iot-GreenHouse-Firmware
+# Iot-GreenHouse-Website
 Source files for MVP #1 Iot GreenHouse - Website
 
 ## Overview
